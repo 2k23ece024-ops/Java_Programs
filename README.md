@@ -10,19 +10,19 @@
 
 ## Skills
 - Java
-- C Programming
+- DSA
 - SQL
 - Git & GitHub
 
 ## Current Goals
 - Improve Java Programming
 - Learn Data Structures and Algorithms
-- Build Mini Projects
+- Learn SQL 
 - Prepare for Placements
 
 ## Repository Contents
 - Java Programs
-- OOP Concepts
+- OOPS Concepts
 - ArrayList Programs
 - DSA Practice Problems
 
