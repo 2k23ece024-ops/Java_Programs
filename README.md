@@ -1,3 +1,4 @@
+![Banner](banner.png)
 # Hi, I'm Moorthi 👋
 
 🎓 ECE Student
@@ -27,3 +28,7 @@
 - DSA Practice Problems
 
 ⭐ Thanks for visiting my repository!
+
+
+
+
