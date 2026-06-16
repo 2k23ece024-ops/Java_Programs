@@ -1,5 +1,3 @@
-1.jpg
-<img src="YOUR_IMAGE_URL" width="100%">
 # Hi, I'm Moorthi 👋
 
 🎓 ECE Student
